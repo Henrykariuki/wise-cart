@@ -5,7 +5,7 @@ import { User } from 'lucide-vue-next';
 <template>
   <div class="text-3xl font-bold underline">
     My Header
-    <User/>
+    <User size="16"/>
   </div>
 </template>
 
